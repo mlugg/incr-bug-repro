@@ -1,0 +1,4 @@
+* `zig build run -fincremental --watch`
+* open `ZirGen.zig`
+* without changing anything, save it; this run looks okay
+* without changing anything, save it again; strings start getting garbled
