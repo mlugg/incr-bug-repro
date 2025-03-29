@@ -1,3 +1,4 @@
+* get zig 0.15.0-dev.151+6e8493daa
 * `zig build run -fincremental --watch`
 * open `ZirGen.zig`
 * without changing anything, save it; this run looks okay
